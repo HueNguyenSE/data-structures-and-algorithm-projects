@@ -1,3 +1,10 @@
-# data-structures-and-algorithm-projects
-They are five required projects to claim a certification of JavaScript Algorithms and Data Structures offered by freeCodeCamp.
-Problems are analysed and solutions are developed on my own.
+## The course
+- Course: [JavaScript Data Structures and Algorithms Certification Course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting). <br />
+- Provider: [freeCodeCamp.com](https://www.freecodecamp.org) <br />
+- Status: [Completed](https://www.freecodecamp.org/certification/HueNguyenSE/javascript-algorithms-and-data-structures) <br />
+- Projects: 
+  - Palindrome Checker
+  - Roman Numeral Converter
+  - Caesars Cipher
+  - Telephone Number Vilidation
+  - Cash Register
